@@ -1,0 +1,13 @@
+--2020-02-21 11:49:22--  ftp://webget/
+           => ‘.listing’
+Resolving webget (webget)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘webget’
+--2020-02-21 11:49:22--  http://command/
+Resolving command (command)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘command’
+--2020-02-21 11:49:22--  http://not/
+Resolving not (not)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘not’
+--2020-02-21 11:49:22--  http://found/
+Resolving found (found)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘found’
